@@ -1,0 +1,4 @@
+node_modules
+
+.env
+`git update-index --skip-worktree package.json package-lock.json `
